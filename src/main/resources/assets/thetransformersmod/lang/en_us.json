@@ -1,5 +1,64 @@
 {
   "item.thetransformersmod.transformium_fragment": "Transformium Fragment",
-  "item.thetransformersmod.transformium_alloy": "Transformium Alloy"
+  "item.thetransformersmod.transformium_alloy": "Transformium Alloy",
+  "item.thetransformersmod.transformium_alloy_rod": "Transformium Alloy Rod",
+
+  "item.thetransformersmod.crude_flux_alloy": "Crude Flux Alloy",
+  "item.thetransformersmod.refined_flux_alloy": "Refined Flux Alloy",
+  "item.thetransformersmod.crude_alloy_wire": "Crude Alloy Wire",
+  "item.thetransformersmod.refined_alloy_wire": "Refined Alloy Wire",
+
+  "item.thetransformersmod.energon_alloy": "Energon Alloy",
+  "item.thetransformersmod.energon_alloy_nugget": "Energon Alloy Nugget",
+  "item.thetransformersmod.raw_energon": "Raw Energon",
+  "item.thetransformersmod.energon_dust": "Energon Dust",
+
+  "item.thetransformersmod.basic_circuit": "Basic Circuit",
+  "item.thetransformersmod.improved_circuit": "Improved Circuit",
+  "item.thetransformersmod.advanced_circuit": "Advanced Circuit",
+
+  "item.thetransformersmod.protoform_head": "Protoform Head",
+  "item.thetransformersmod.optic_sensor": "Optic Sensor",
+  "item.thetransformersmod.wheel": "Wheel",
+  "item.thetransformersmod.tank_barrel": "Tank Barrel",
+  "item.thetransformersmod.tank_turret_base": "Tank Turret Base",
+  "item.thetransformersmod.tank_turret": "Tank Turret",
+  "item.thetransformersmod.tank_track": "Tank Track",
+  "item.thetransformersmod.standard_engine": "Standard Engine",
+  "item.thetransformersmod.jet_thruster": "Jet Thruster",
+  "item.thetransformersmod.jet_turbine": "Jet Turbine",
+
+  "item.thetransformersmod.vurp_torso_base": "Vurp's Torso Base",
+  "item.thetransformersmod.vurps_facemask": "Vurp's Facemask",
+  "item.thetransformersmod.vurps_gauntlet": "Vurp's Gauntlet",
+  "item.thetransformersmod.vurps_greave": "Vurp's Greave",
+  "item.thetransformersmod.vurps_shoulder_pad": "Vurp's Shoulder Pad",
+
+  "item.thetransformersmod.purge_torso_base": "Purge's Torso Base",
+  "item.thetransformersmod.purges_gauntlet": "Purge's Gauntlet",
+  "item.thetransformersmod.purges_greave": "Purge's Greave",
+  "item.thetransformersmod.purges_pauldron": "Purge's Pauldron",
+
+  "item.thetransformersmod.subwoofer_torso_base": "Subwoofer's Torso Base",
+  "item.thetransformersmod.subwoofers_gauntlet": "Subwoofer's Gauntlet",
+  "item.thetransformersmod.subwoofers_greave": "Subwoofer's Greave",
+  "item.thetransformersmod.subwoofers_shoudler_pad": "Subwoofer's Shoulder Pad",
+  "item.thetransformersmod.subwoofers_visor": "Subwoofer's Visor",
+
+  "item.thetransformersmod.skystrike_torso_base": "Skystrike's Torso Base",
+  "item.thetransformersmod.skystrikes_gauntlet": "Skystrike's Gauntlet",
+  "item.thetransformersmod.skystrikes_greave": "Skystrike's Greave",
+  "item.thetransformersmod.skystrikes_shoulder_pad": "Skystrike's Shoulder Pad",
+  "item.thetransformersmod.skystrikes_wing": "Skystrike's Wing",
+
+  "item.thetransformersmod.cloudtrap_torso_base": "Cloudtrap's Torso Base",
+  "item.thetransformersmod.cloudtraps_gauntlet": "Cloudtrap's Gauntlet",
+  "item.thetransformersmod.cloudtraps_greave": "Cloudtrap's Greave",
+  "item.thetransformersmod.cloudtraps_pauldron": "Cloudtrap's Pauldron",
+  "item.thetransformersmod.cloudtraps_visor": "Cloudtrap's Visor",
+  "item.thetransformersmod.cloudtraps_wing": "Cloudtrap's Wing",
+
+
+  "creativetab.transformers_tab": "Transformers Tab"
 
 }

@@ -1,6 +1,7 @@
 package net.firesundew.thetransformersmod;
 
 import com.mojang.logging.LogUtils;
+import net.firesundew.thetransformersmod.item.ModCreativeModTabs;
 import net.firesundew.thetransformersmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
@@ -28,6 +29,8 @@ public class TransformerMod
     public TransformerMod(FMLJavaModLoadingContext context)
     {
         IEventBus modEventBus = context.getModEventBus();
+
+        ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
 

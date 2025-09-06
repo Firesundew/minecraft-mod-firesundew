@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "thetransformersmod:item/refined_flux_alloy"
+  }
+}
