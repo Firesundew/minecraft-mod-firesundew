@@ -1,6 +1,7 @@
 package net.firesundew.thetransformersmod;
 
 import com.mojang.logging.LogUtils;
+import net.firesundew.thetransformersmod.block.ModBlocks;
 import net.firesundew.thetransformersmod.item.ModCreativeModTabs;
 import net.firesundew.thetransformersmod.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -33,6 +34,8 @@ public class TransformerMod
         ModCreativeModTabs.register(modEventBus);
 
         ModItems.register(modEventBus);
+
+        ModBlocks.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 

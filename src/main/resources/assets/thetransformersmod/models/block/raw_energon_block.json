@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "thetransformersmod:block/raw_energon_block"
+  }
+}

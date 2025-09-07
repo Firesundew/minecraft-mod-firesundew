@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "thetransformersmod:block/block_of_transformium"
+  }
+}
