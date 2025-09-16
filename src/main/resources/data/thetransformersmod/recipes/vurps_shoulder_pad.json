@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "p": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "pattern": [
+    "i##",
+    "p##"
+  ],
+  "result": {
+    "item": "thetransformersmod:vurps_shoudler_pad"
+  }
+}

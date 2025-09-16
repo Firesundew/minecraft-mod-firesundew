@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:gray_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:basic_circuit"
+    }
+  },
+  "pattern": [
+    "i##",
+    "i##",
+    "c##"
+  ],
+  "result": {
+    "item": "thetransformersmod:skystrikes_greave"
+  }
+}

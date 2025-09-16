@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "r": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "b": {
+      "item": "thetransformersmod:block_of_transformium_alloy"
+    },
+    "g": {
+      "item": "minecraft:brown_dye"
+    },
+    "t": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "pattern": [
+    "tbg",
+    "#c#",
+    "#r#"
+  ],
+  "result": {
+    "item": "thetransformersmod:purge_torso_base"
+  }
+}

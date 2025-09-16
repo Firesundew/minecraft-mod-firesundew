@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:crude_flux_alloy"
+    },
+    "p": {
+      "item": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " # ",
+    " p ",
+    "# #"
+  ],
+  "result": {
+    "item": "thetransformersmod:crude_alloy_wire",
+    "count": 3
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:diamond"
+    },
+    "N": {
+      "item": "thetransformersmod:transformium_alloy_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "#N ",
+    "NN ",
+    "  R"
+  ],
+  "result": {
+    "item": "thetransformersmod:optic_sensor"
+  }
+}

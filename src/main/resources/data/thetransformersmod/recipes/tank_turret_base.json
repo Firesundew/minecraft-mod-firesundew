@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_block"
+    },
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "w": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "pattern": [
+    "bw ",
+    "i#i"
+  ],
+  "result": {
+    "item": "thetransformersmod:tank_turret_base"
+  }
+}

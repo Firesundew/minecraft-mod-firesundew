@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "pattern": [
+    "###",
+    "ii#"
+  ],
+  "result": {
+    "item": "thetransformersmod:skystrikes_shoudler_pad"
+  }
+}

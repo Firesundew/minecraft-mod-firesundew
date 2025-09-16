@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:basic_circuit"
+    },
+    "w": {
+      "item": "thetransformersmod:wheel"
+    }
+  },
+  "pattern": [
+    "i#w",
+    "i##",
+    "c##"
+  ],
+  "result": {
+    "item": "thetransformersmod:vurps_greave"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:basic_circuit"
+    },
+    "i": {
+      "item": "minecraft:gold_ingot"
+    },
+    "g": {
+      "item": "thetransformersmod:energon_alloy"
+    },
+    "w": {
+      "item": "thetransformersmod:refined_alloy_wire"
+    }
+  },
+  "pattern": [
+    "ggg",
+    "#i#",
+    "gwi"
+  ],
+  "result": {
+    "item": "thetransformersmod:improved_circuit",
+    "count": 2
+  }
+}

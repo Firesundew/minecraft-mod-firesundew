@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_bar"
+    },
+    "N": {
+      "item": "minecraft:redstone"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "$$$",
+    " #N",
+    "$$$ "
+  ],
+  "result": {
+    "item": "thetransformersmod:small_thruster"
+  }
+}

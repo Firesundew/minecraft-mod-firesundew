@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:piston"
+    },
+    "N": {
+      "item": "minecraft:redstone"
+    },
+    "R": {
+      "item": "minecraft:iron_block"
+    },
+    "$": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "#N#",
+    "$R$ "
+  ],
+  "result": {
+    "item": "thetransformersmod:standard_engine"
+  }
+}

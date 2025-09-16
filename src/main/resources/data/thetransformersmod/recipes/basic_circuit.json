@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "minecraft:redstone"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "g": {
+      "item": "thetransformersmod:crude_flux_alloy"
+    },
+    "w": {
+      "item": "thetransformersmod:crude_alloy_wire"
+    }
+  },
+  "pattern": [
+    "###",
+    "gg#",
+    "#wi"
+  ],
+  "result": {
+    "item": "thetransformersmod:basic_circuit",
+    "count": 2
+  }
+}

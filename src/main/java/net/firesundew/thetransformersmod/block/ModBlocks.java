@@ -28,12 +28,20 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
     public static final RegistryObject<Block> TRANSFORMIUM_ORE = registerBlock("transformium_ore",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)));
+    public static final RegistryObject<Block> DEEPSLATE_TRANSFORMIUM_ORE = registerBlock("deepslate_transformium_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_IRON_ORE)));
+    public static final RegistryObject<Block> BLOCK_OF_RAW_TRANSFORMIUM = registerBlock("block_of_raw_transformium",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_IRON_BLOCK)));
 
     //energon blocks
     public static final RegistryObject<Block> BLOCK_OF_ENERGON = registerBlock("block_of_energon",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.GOLD_BLOCK)));
     public static final RegistryObject<Block> RAW_ENERGON_BLOCK = registerBlock("raw_energon_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_GOLD_BLOCK)));
+    public static final RegistryObject<Block> ENERGON_ORE = registerBlock("energon_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.GOLD_ORE)));
+    public static final RegistryObject<Block> DEEPSLATE_ENERGON_ORE = registerBlock("deepslate_energon_ore",
+            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_GOLD_ORE)));
 
     //flux blocks
     public static final RegistryObject<Block> BLOCK_OF_CRUDE_FLUX_ALLOY = registerBlock("block_of_crude_flux_alloy",

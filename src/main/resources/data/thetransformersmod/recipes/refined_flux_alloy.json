@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:crude_flux_alloy"
+    },
+    "i": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "##i"
+  ],
+  "result": {
+    "item": "thetransformersmod:refined_flux_alloy",
+    "count": 1
+  }
+}

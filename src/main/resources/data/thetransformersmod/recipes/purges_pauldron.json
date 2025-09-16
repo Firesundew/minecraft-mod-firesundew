@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:brown_dye"
+    },
+    "w": {
+      "item": "minecraft:white_dye"
+    },
+    "p": {
+      "item": "minecraft:purple_dye"
+    }
+  },
+  "pattern": [
+    "###",
+    "wp#",
+    " i#"
+  ],
+  "result": {
+    "item": "thetransformersmod:purges_pauldron"
+  }
+}

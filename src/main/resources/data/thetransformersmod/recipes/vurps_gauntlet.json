@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "r": {
+      "item": "minecraft:black_stained_glass_pane"
+    },
+    "c": {
+      "item": "thetransformersmod:improved_circuit"
+    }
+  },
+  "pattern": [
+    "i#r",
+    "i#r",
+    " #c"
+  ],
+  "result": {
+    "item": "thetransformersmod:vurps_gauntlet"
+  }
+}

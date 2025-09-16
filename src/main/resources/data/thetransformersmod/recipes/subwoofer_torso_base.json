@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "r": {
+      "item": "minecraft:blue_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "b": {
+      "item": "thetransformersmod:block_of_transformium_alloy"
+    },
+    "g": {
+      "item": "minecraft:blue_stained_glass"
+    },
+    "w": {
+      "item": "thetransfomersmod:wheel"
+    }
+  },
+  "pattern": [
+    "#b#",
+    "wcw",
+    "rgr"
+  ],
+  "result": {
+    "item": "thetransformersmod:subwoofer_torso_base"
+  }
+}

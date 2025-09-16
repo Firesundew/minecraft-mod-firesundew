@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "thetransformersmod:block_of_transformium"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "thetransformersmod:blocks/block_of_transformium"
+}

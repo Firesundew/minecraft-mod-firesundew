@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "r": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "b": {
+      "item": "thetransformersmod:block_of_transformium_alloy"
+    },
+    "g": {
+      "item": "minecraft:gray_dye"
+    }
+  },
+  "pattern": [
+    "rbr",
+    "#c#",
+    "#g#"
+  ],
+  "result": {
+    "item": "thetransformersmod:skystrike_torso_base"
+  }
+}

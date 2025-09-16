@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "catergory": "misc",
+  "ingredients": [
+    {
+      "item": "thetransformersmod:block_of_transformium"
+    }
+  ],
+  "result": {
+    "item": "thetransformersmod:transformium_fragment",
+    "count": 9
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "r": {
+      "item": "minecraft:purple_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "b": {
+      "item": "thetransformersmod:block_of_transformium_alloy"
+    },
+    "g": {
+      "item": "minecraft:gray_dye"
+    },
+    "l": {
+      "item": "minecraft:lime_stained_glass"
+    }
+  },
+  "pattern": [
+    "gbg",
+    "lcl",
+    "#r#"
+  ],
+  "result": {
+    "item": "thetransformersmod:cloudtrap_torso_base"
+  }
+}

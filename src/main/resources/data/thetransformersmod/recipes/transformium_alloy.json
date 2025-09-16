@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_fragment"
+    },
+    "p": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "p##"
+  ],
+  "result": {
+    "item": "thetransformersmod:transformium_alloy",
+    "count": 2
+  }
+}

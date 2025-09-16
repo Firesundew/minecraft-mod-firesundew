@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:energon_dust"
+    },
+    "p": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "p#"
+  ],
+  "result": {
+    "item": "thetransformersmod:energon_alloy",
+    "count": 1
+  }
+}

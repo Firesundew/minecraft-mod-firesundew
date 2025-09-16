@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:gray_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:basic_circuit"
+    },
+    "j": {
+      "item": "thetreansformersmod:jet_thruster"
+    }
+  },
+  "pattern": [
+    "i##",
+    "i#j",
+    "c##"
+  ],
+  "result": {
+    "item": "thetransformersmod:cloudtraps_greave"
+  }
+}

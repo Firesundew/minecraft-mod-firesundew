@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:gray_dye"
+    },
+    "b": {
+      "item": "minecraft:black_dye"
+    }
+  },
+  "pattern": [
+    "###",
+    "i##",
+    " bb"
+  ],
+  "result": {
+    "item": "thetransformersmod:cloudtraps_pauldron"
+  }
+}

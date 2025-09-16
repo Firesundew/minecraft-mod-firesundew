@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "r": {
+      "item": "minecraft:light_gray_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "b": {
+      "item": "thetransformersmod:block_of_transformium_alloy"
+    },
+    "g": {
+      "item": "minecraft:lime_dye"
+    }
+  },
+  "pattern": [
+    "rbr",
+    "#c#",
+    "#g#"
+  ],
+  "result": {
+    "item": "thetransformersmod:vurp_torso_base"
+  }
+}

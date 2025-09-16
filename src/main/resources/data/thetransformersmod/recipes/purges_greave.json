@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:white_dye"
+    },
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:basic_circuit"
+    }
+  },
+  "pattern": [
+    "i##",
+    "b##",
+    "c##"
+  ],
+  "result": {
+    "item": "thetransformersmod:purges_greave"
+  }
+}

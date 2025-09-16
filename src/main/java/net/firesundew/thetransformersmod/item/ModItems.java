@@ -23,6 +23,8 @@ public class ModItems {
             () -> new Item(new Item.Properties()));
     public static final RegistryObject<Item> TRANSFORMIUM_ALLOY_NUGGET = ITEMS.register("transformium_alloy_nugget",
             () -> new Item(new Item.Properties()));
+    public static final RegistryObject<Item> RAW_TRANSFORMIUM = ITEMS.register("raw_transformium",
+            () -> new Item(new Item.Properties()));
 
     //Flux
     public static final RegistryObject<Item> CRUDE_FLUX_ALLOY = ITEMS.register("crude_flux_alloy",

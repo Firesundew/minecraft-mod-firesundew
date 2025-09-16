@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "N": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "R": {
+      "item": "thetransformersmod:optic_sensor"
+    }
+  },
+  "pattern": [
+    "NNN",
+    "RNR",
+    "N#N"
+  ],
+  "result": {
+    "item": "thetransformersmod:protoform_head"
+  }
+}

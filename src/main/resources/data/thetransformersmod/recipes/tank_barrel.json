@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+
+    "b": {
+      "item": "minecraft:brown_dye"
+    },
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+    "w": {
+      "item": "minecraft:white_dye"
+    }
+  },
+  "pattern": [
+    "bw ",
+    "iii"
+  ],
+  "result": {
+    "item": "thetransformersmod:tank_barrel"
+  }
+}

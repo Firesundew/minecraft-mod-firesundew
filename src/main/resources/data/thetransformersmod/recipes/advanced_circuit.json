@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:advanced_circuit"
+    },
+    "i": {
+      "item": "thetransformersmod:refined_flux_alloy"
+    },
+    "g": {
+      "item": "thetransformersmod:energon_alloy"
+    },
+    "w": {
+      "item": "thetransformersmod:refined_alloy_wire"
+    }
+  },
+  "pattern": [
+    "ggg",
+    "#i#",
+    "gwi"
+  ],
+  "result": {
+    "item": "thetransformersmod:advanced_circuit",
+    "count": 1
+  }
+}

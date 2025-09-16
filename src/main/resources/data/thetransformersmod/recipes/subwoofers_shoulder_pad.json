@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:gray_dye"
+    },
+    "b": {
+      "item": "minecraft:blue_dye"
+    }
+  },
+  "pattern": [
+    "b##",
+    "b##",
+    "  i"
+  ],
+  "result": {
+    "item": "thetransformersmod:subwoofers_shoudler_pad"
+  }
+}

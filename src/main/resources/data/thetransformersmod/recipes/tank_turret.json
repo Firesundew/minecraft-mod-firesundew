@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:tank_barrel"
+    },
+    "$": {
+      "item": "thetransformersmod:tank_turret_base"
+    }
+  },
+  "pattern": [
+    "#$"
+  ],
+  "result": {
+    "item": "thetransformersmod:tank_turret"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:yellow_dye"
+    },
+    "r": {
+      "item": "minecraft:blue_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:improved_circuit"
+    }
+  },
+  "pattern": [
+    "r##",
+    "i##",
+    "r#c"
+  ],
+  "result": {
+    "item": "thetransformersmod:subwoofers_gauntlet"
+  }
+}

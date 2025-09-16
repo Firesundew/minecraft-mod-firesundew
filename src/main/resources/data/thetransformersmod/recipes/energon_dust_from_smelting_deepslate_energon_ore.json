@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "energon_dust",
+  "ingredient": {
+    "item": "thetrwansformersmod:deepslate_energon_ore"
+  },
+  "result": "thetransformersmod:energon_dust"
+}

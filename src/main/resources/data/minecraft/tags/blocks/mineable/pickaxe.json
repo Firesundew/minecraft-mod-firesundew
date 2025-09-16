@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "thetransformersmod:block_of_transformium",
+    "thetransformersmod:block_of_transformium_alloy",
+    "thetransformersmod:block_of_crude_flux_alloy",
+    "thetransformersmod:block_of_refined_flux_alloy",
+    "thetransformersmod:raw_transformium_block",
+    "thetransformersmod:raw_energon_block",
+    "thetransformersmod:block_of_energon"
+  ]
+}

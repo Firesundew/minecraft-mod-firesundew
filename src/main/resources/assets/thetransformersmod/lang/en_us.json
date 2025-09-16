@@ -3,6 +3,7 @@
   "item.thetransformersmod.transformium_alloy": "Transformium Alloy",
   "item.thetransformersmod.transformium_alloy_nugget": "Transformium Alloy Nugget",
   "item.thetransformersmod.transformium_alloy_rod": "Transformium Alloy Rod",
+  "item.thetransformersmod.raw_transformium": "Raw Transformium",
 
   "item.thetransformersmod.crude_flux_alloy": "Crude Flux Alloy",
   "item.thetransformersmod.refined_flux_alloy": "Refined Flux Alloy",
@@ -60,10 +61,14 @@
   "item.thetransformersmod.cloudtraps_wing": "Cloudtrap's Wing",
 
   "block.thetransformersmod.block_of_transformium": "Block of Transformium",
+  "block.thetransformersmod.block_of_raw_transformium": "Block of Raw Transformium",
   "block.thetransformersmod.block_of_transformium_alloy": "Block of Transformium Alloy",
   "block.thetransformersmod.transformium_ore": "Transformium Ore",
+  "block.thetransformersmod.deepslate_transformium_ore": "Deepslate Transformium Ore",
 
-  "block.thetransformersmod.block_of_energon": "Block of Energon",
+  "block.thetransformersmod.block_of_energon": "Block of Energon Alloy",
+  "block.thetransformersmod.energon_ore": "Energon Ore",
+  "block.thetransformersmod.deepslate_energon_ore": "Deepslate Energon Ore",
   "block.thetransformersmod.raw_energon_block": "Block of Raw Energon",
 
   "block.thetransformersmod.block_of_crude_flux_alloy": "Block of Crude Flux Alloy",

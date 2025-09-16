@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "transformium",
+  "ingredient": {
+    "item": "thetransformersmod:transformium_ore"
+  },
+  "result": "thetransformersmod:transformium_fragment"
+}

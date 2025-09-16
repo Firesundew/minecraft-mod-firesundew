@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:blue_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:basic_circuit"
+    },
+    "y": {
+      "item": "minecraft:yellow_dye"
+    },
+    "w": {
+      "item": "thetransformersmod:wheel"
+    }
+  },
+  "pattern": [
+    "i##",
+    "y##",
+    "c#w"
+  ],
+  "result": {
+    "item": "thetransformersmod:subwoofers_greave"
+  }
+}

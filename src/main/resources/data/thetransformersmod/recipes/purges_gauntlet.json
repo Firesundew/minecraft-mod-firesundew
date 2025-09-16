@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "#": {
+      "item": "thetransformersmod:transformium_alloy"
+    },
+    "i": {
+      "item": "minecraft:brown_dye"
+    },
+    "w": {
+      "item": "minecraft:white_dye"
+    },
+    "r": {
+      "item": "minecraft:red_dye"
+    },
+    "c": {
+      "item": "thetransformersmod:improved_circuit"
+    }
+  },
+  "pattern": [
+    "i##",
+    "w##",
+    "r#c"
+  ],
+  "result": {
+    "item": "thetransformersmod:purges_gauntlet"
+  }
+}
