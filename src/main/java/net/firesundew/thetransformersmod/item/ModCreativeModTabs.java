@@ -97,14 +97,17 @@ public class ModCreativeModTabs {
                         pOutput.accept(ModBlocks.BLOCK_OF_TRANSFORMIUM.get());
                         pOutput.accept(ModBlocks.BLOCK_OF_RAW_TRANSFORMIUM.get());
                         pOutput.accept(ModBlocks.BLOCK_OF_TRANSFORMIUM_ALLOY.get());
-                        pOutput.accept(ModBlocks.TRANSFORMIUM_ORE.get());
-                        pOutput.accept(ModBlocks.DEEPSLATE_TRANSFORMIUM_ORE.get());
-                        pOutput.accept(ModBlocks.ENERGON_ORE.get());
-                        pOutput.accept(ModBlocks.DEEPSLATE_ENERGON_ORE.get());
+
                         pOutput.accept(ModBlocks.BLOCK_OF_ENERGON.get());
                         pOutput.accept(ModBlocks.RAW_ENERGON_BLOCK.get());
+
                         pOutput.accept(ModBlocks.BLOCK_OF_CRUDE_FLUX_ALLOY.get());
                         pOutput.accept(ModBlocks.BLOCK_OF_REFINED_FLUX_ALLOY.get());
+
+                        pOutput.accept(ModBlocks.TRANSFORMIUM_ORE.get());
+                        pOutput.accept(ModBlocks.ENERGON_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_TRANSFORMIUM_ORE.get());
+                        pOutput.accept(ModBlocks.DEEPSLATE_ENERGON_ORE.get());
 
 
                     })

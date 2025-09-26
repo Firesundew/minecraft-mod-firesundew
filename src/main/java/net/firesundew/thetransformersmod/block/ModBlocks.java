@@ -2,10 +2,12 @@ package net.firesundew.thetransformersmod.block;
 
 import net.firesundew.thetransformersmod.TransformerMod;
 import net.firesundew.thetransformersmod.item.ModItems;
+import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.Blocks;
+import net.minecraft.world.level.block.DropExperienceBlock;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -26,10 +28,6 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
     public static final RegistryObject<Block> BLOCK_OF_TRANSFORMIUM_ALLOY = registerBlock("block_of_transformium_alloy",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_BLOCK)));
-    public static final RegistryObject<Block> TRANSFORMIUM_ORE = registerBlock("transformium_ore",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.IRON_ORE)));
-    public static final RegistryObject<Block> DEEPSLATE_TRANSFORMIUM_ORE = registerBlock("deepslate_transformium_ore",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_IRON_ORE)));
     public static final RegistryObject<Block> BLOCK_OF_RAW_TRANSFORMIUM = registerBlock("block_of_raw_transformium",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_IRON_BLOCK)));
 
@@ -38,16 +36,26 @@ public class ModBlocks {
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.GOLD_BLOCK)));
     public static final RegistryObject<Block> RAW_ENERGON_BLOCK = registerBlock("raw_energon_block",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.RAW_GOLD_BLOCK)));
-    public static final RegistryObject<Block> ENERGON_ORE = registerBlock("energon_ore",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.GOLD_ORE)));
-    public static final RegistryObject<Block> DEEPSLATE_ENERGON_ORE = registerBlock("deepslate_energon_ore",
-            () -> new Block(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_GOLD_ORE)));
 
     //flux blocks
     public static final RegistryObject<Block> BLOCK_OF_CRUDE_FLUX_ALLOY = registerBlock("block_of_crude_flux_alloy",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.REDSTONE_BLOCK)));
     public static final RegistryObject<Block> BLOCK_OF_REFINED_FLUX_ALLOY = registerBlock("block_of_refined_flux_alloy",
             () -> new Block(BlockBehaviour.Properties.copy(Blocks.REDSTONE_BLOCK)));
+
+    //ore
+    public static final RegistryObject<Block> TRANSFORMIUM_ORE   = registerBlock("transformium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DIAMOND_ORE)
+                    .requiresCorrectToolForDrops(), UniformInt.of(3, 6)));
+    public static final RegistryObject<Block> DEEPSLATE_TRANSFORMIUM_ORE   = registerBlock("deepslate_transformium_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_DIAMOND_ORE)
+                    .requiresCorrectToolForDrops(), UniformInt.of(3, 6)));
+    public static final RegistryObject<Block> ENERGON_ORE   = registerBlock("energon_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.GOLD_ORE)
+                    .requiresCorrectToolForDrops(), UniformInt.of(4, 7)));
+    public static final RegistryObject<Block> DEEPSLATE_ENERGON_ORE   = registerBlock("deepslate_energon_ore",
+            () -> new DropExperienceBlock(BlockBehaviour.Properties.copy(Blocks.DEEPSLATE_GOLD_ORE)
+                    .requiresCorrectToolForDrops(), UniformInt.of(4, 7)));
 
 
 

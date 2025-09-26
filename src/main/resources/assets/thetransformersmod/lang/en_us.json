@@ -66,10 +66,11 @@
   "block.thetransformersmod.transformium_ore": "Transformium Ore",
   "block.thetransformersmod.deepslate_transformium_ore": "Deepslate Transformium Ore",
 
+
   "block.thetransformersmod.block_of_energon": "Block of Energon Alloy",
+  "block.thetransformersmod.raw_energon_block": "Block of Raw Energon",
   "block.thetransformersmod.energon_ore": "Energon Ore",
   "block.thetransformersmod.deepslate_energon_ore": "Deepslate Energon Ore",
-  "block.thetransformersmod.raw_energon_block": "Block of Raw Energon",
 
   "block.thetransformersmod.block_of_crude_flux_alloy": "Block of Crude Flux Alloy",
   "block.thetransformersmod.block_of_refined_flux_alloy": "Block of Refined Flux Alloy",
